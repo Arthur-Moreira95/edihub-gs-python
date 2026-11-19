@@ -8,6 +8,15 @@ O ESP32 do **Edihub Totem Escolar** publica no ThingSpeak quantos alunos se apro
 - Canal ThingSpeak (público): https://thingspeak.mathworks.com/channels/3584126
 
 ---
+## Integrantes
+
+| Nome | RM |
+| --- | --- |
+| Bernardo de Paula Rodrigues | 572376 |
+| Arthur Moreira Costa | 571532 |
+| Henrique Nunes Mororó | 574073 |
+
+---
 
 ## ▶️ Como rodar
 
