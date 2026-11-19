@@ -1,0 +1,342 @@
+[
+    {
+        "id": 1,
+        "horario": "2026-11-17 17:42:47",
+        "medidas": {
+            "aproximacoes": 0.0,
+            "luz": 76.0
+        },
+        "risco": 77.2,
+        "faixa": "PERIGO"
+    },
+    {
+        "id": 2,
+        "horario": "2026-11-17 17:43:08",
+        "medidas": {
+            "aproximacoes": 0.0,
+            "luz": 76.0
+        },
+        "risco": 77.2,
+        "faixa": "PERIGO"
+    },
+    {
+        "id": 3,
+        "horario": "2026-11-17 17:43:30",
+        "medidas": {
+            "aproximacoes": 0.0,
+            "luz": 76.0
+        },
+        "risco": 77.2,
+        "faixa": "PERIGO"
+    },
+    {
+        "id": 4,
+        "horario": "2026-11-17 17:43:52",
+        "medidas": {
+            "aproximacoes": 0.0,
+            "luz": 76.0
+        },
+        "risco": 77.2,
+        "faixa": "PERIGO"
+    },
+    {
+        "id": 5,
+        "horario": "2026-11-17 17:44:26",
+        "medidas": {
+            "aproximacoes": 1.0,
+            "luz": 76.0
+        },
+        "risco": 53.9,
+        "faixa": "ATENÇÃO"
+    },
+    {
+        "id": 6,
+        "horario": "2026-11-17 17:45:03",
+        "medidas": {
+            "aproximacoes": 1.0,
+            "luz": 76.0
+        },
+        "risco": 53.9,
+        "faixa": "ATENÇÃO"
+    },
+    {
+        "id": 7,
+        "horario": "2026-11-17 17:45:24",
+        "medidas": {
+            "aproximacoes": 1.0,
+            "luz": 76.0
+        },
+        "risco": 53.9,
+        "faixa": "ATENÇÃO"
+    },
+    {
+        "id": 8,
+        "horario": "2026-11-17 18:08:55",
+        "medidas": {
+            "aproximacoes": 0.0,
+            "luz": 76.0
+        },
+        "risco": 77.2,
+        "faixa": "PERIGO"
+    },
+    {
+        "id": 9,
+        "horario": "2026-11-17 18:09:16",
+        "medidas": {
+            "aproximacoes": 1.0,
+            "luz": 76.0
+        },
+        "risco": 53.9,
+        "faixa": "ATENÇÃO"
+    },
+    {
+        "id": 10,
+        "horario": "2026-11-17 18:09:37",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 3.0
+        },
+        "risco": 52.4,
+        "faixa": "ATENÇÃO"
+    },
+    {
+        "id": 11,
+        "horario": "2026-11-17 18:09:58",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 5.0
+        },
+        "risco": 51.8,
+        "faixa": "ATENÇÃO"
+    },
+    {
+        "id": 12,
+        "horario": "2026-11-17 18:30:42",
+        "medidas": {
+            "aproximacoes": 1.0,
+            "luz": 98.0
+        },
+        "risco": 47.3,
+        "faixa": "ATENÇÃO"
+    },
+    {
+        "id": 13,
+        "horario": "2026-11-17 18:31:03",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 98.0
+        },
+        "risco": 23.9,
+        "faixa": "NORMAL"
+    },
+    {
+        "id": 14,
+        "horario": "2026-11-17 18:31:24",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 98.0
+        },
+        "risco": 23.9,
+        "faixa": "NORMAL"
+    },
+    {
+        "id": 15,
+        "horario": "2026-11-17 18:31:45",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 98.0
+        },
+        "risco": 23.9,
+        "faixa": "NORMAL"
+    },
+    {
+        "id": 16,
+        "horario": "2026-11-17 18:32:06",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 98.0
+        },
+        "risco": 23.9,
+        "faixa": "NORMAL"
+    },
+    {
+        "id": 17,
+        "horario": "2026-11-17 18:32:27",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 98.0
+        },
+        "risco": 23.9,
+        "faixa": "NORMAL"
+    },
+    {
+        "id": 18,
+        "horario": "2026-11-17 18:32:48",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 98.0
+        },
+        "risco": 23.9,
+        "faixa": "NORMAL"
+    },
+    {
+        "id": 19,
+        "horario": "2026-11-17 18:33:09",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 98.0
+        },
+        "risco": 23.9,
+        "faixa": "NORMAL"
+    },
+    {
+        "id": 20,
+        "horario": "2026-11-17 18:33:30",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 98.0
+        },
+        "risco": 23.9,
+        "faixa": "NORMAL"
+    },
+    {
+        "id": 21,
+        "horario": "2026-11-17 18:33:51",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 98.0
+        },
+        "risco": 23.9,
+        "faixa": "NORMAL"
+    },
+    {
+        "id": 22,
+        "horario": "2026-11-17 18:34:13",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 98.0
+        },
+        "risco": 23.9,
+        "faixa": "NORMAL"
+    },
+    {
+        "id": 23,
+        "horario": "2026-11-17 18:34:34",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 98.0
+        },
+        "risco": 23.9,
+        "faixa": "NORMAL"
+    },
+    {
+        "id": 24,
+        "horario": "2026-11-17 18:34:55",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 98.0
+        },
+        "risco": 23.9,
+        "faixa": "NORMAL"
+    },
+    {
+        "id": 25,
+        "horario": "2026-11-17 18:35:16",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 98.0
+        },
+        "risco": 23.9,
+        "faixa": "NORMAL"
+    },
+    {
+        "id": 26,
+        "horario": "2026-11-17 18:35:37",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 98.0
+        },
+        "risco": 23.9,
+        "faixa": "NORMAL"
+    },
+    {
+        "id": 27,
+        "horario": "2026-11-17 18:35:58",
+        "medidas": {
+            "aproximacoes": 2.0,
+            "luz": 98.0
+        },
+        "risco": 23.9,
+        "faixa": "NORMAL"
+    },
+    {
+        "id": 28,
+        "horario": "2026-11-17 18:36:38",
+        "medidas": {
+            "aproximacoes": 1.0,
+            "luz": 98.0
+        },
+        "risco": 47.3,
+        "faixa": "ATENÇÃO"
+    },
+    {
+        "id": 29,
+        "horario": "2026-11-17 18:37:00",
+        "medidas": {
+            "aproximacoes": 1.0,
+            "luz": 98.0
+        },
+        "risco": 47.3,
+        "faixa": "ATENÇÃO"
+    },
+    {
+        "id": 30,
+        "horario": "2026-11-17 18:37:21",
+        "medidas": {
+            "aproximacoes": 1.0,
+            "luz": 98.0
+        },
+        "risco": 47.3,
+        "faixa": "ATENÇÃO"
+    },
+    {
+        "id": 31,
+        "horario": "2026-11-17 18:44:24",
+        "medidas": {
+            "aproximacoes": 0.0,
+            "luz": 76.0
+        },
+        "risco": 77.2,
+        "faixa": "PERIGO"
+    },
+    {
+        "id": 32,
+        "horario": "2026-11-17 18:44:45",
+        "medidas": {
+            "aproximacoes": 1.0,
+            "luz": 76.0
+        },
+        "risco": 53.9,
+        "faixa": "ATENÇÃO"
+    },
+    {
+        "id": 33,
+        "horario": "2026-11-17 18:45:06",
+        "medidas": {
+            "aproximacoes": 0.0,
+            "luz": 76.0
+        },
+        "risco": 77.2,
+        "faixa": "PERIGO"
+    },
+    {
+        "id": 34,
+        "horario": "2026-11-17 18:47:37",
+        "medidas": {
+            "aproximacoes": 0.0,
+            "luz": 76.0
+        },
+        "risco": 77.2,
+        "faixa": "PERIGO"
+    }
+]
